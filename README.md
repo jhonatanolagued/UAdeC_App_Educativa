@@ -1,1 +1,1 @@
-# UAdeC_App_Educativa
+# UAdeC App Educativa
