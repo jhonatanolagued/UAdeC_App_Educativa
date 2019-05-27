@@ -8,8 +8,9 @@
 ## Construido con :wrench:
 
 *[Android Studio](https://developer.android.com/studio)* - Ide usado
+
 *[SQLite](https://www.sqlite.org/index.html)* - Motor de base de datos
 
 ## Autores :black_nib:
 
-*Jhonatan Olague Diaz*  - Trabajo Inicial [Jhonatan Olague](https://www.facebook.com/jhonatan.olague)
+**Jhonatan Olague Diaz**  - Trabajo Inicial [Facebook](https://www.facebook.com/jhonatan.olague)
