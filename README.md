@@ -4,3 +4,12 @@
 
 ## Diseño de la App :art:
 ![diseño_gif](https://media.giphy.com/media/STTkAGweHC1X0HhxRZ/giphy.gif)
+
+## Construido con :wrench:
+
+*[Android Studio](https://developer.android.com/studio)* - Ide usado
+*[SQLite](https://www.sqlite.org/index.html)* - Motor de base de datos
+
+## Autores :black_nib:
+
+*Jhonatan Olague Diaz*  - Trabajo Inicial [Jhonatan Olague](https://www.facebook.com/jhonatan.olague)
