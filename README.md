@@ -7,9 +7,9 @@
 
 ## Construido con :wrench:
 
-*[Android Studio](https://developer.android.com/studio)* - Ide usado
+- [Android Studio](https://developer.android.com/studio) - Ide usado
 
-*[SQLite](https://www.sqlite.org/index.html)* - Motor de base de datos
+- [SQLite](https://www.sqlite.org/index.html) - Motor de base de datos
 
 ## Autores :black_nib:
 
