@@ -1,5 +1,5 @@
 # UAdeC App Educativa:wolf:
-![icono_app](https://i.ibb.co/V3SK4Bd/icono-de-aplicacion.jpg)
+![icono_app](https://i.ibb.co/gVxK64F/github-app-logo.jpg)
 
  Es una plataforma desarrollada para ayudar a los estudiantes de la carrera de ingeniería en sistemas computacionales de la UAdeC Acuña para aprender los conceptos básicos de los lenguajes de programación JAVA y C# mediante la explicación de teoría y una serie de ejercicios prácticos con los que demostrar que, de verdad, hemos entendido el concepto.:octocat:
 
